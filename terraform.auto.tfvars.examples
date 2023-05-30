@@ -1,0 +1,9 @@
+api_token             = "Rg5WEfasMUWuztbEcy6YA-mCSACACJM11f2Ql6YP_46hh2qi3YvOU2"
+org_id                = "d36ef2-4t32-5ggh-bex3-0ff598ac77dp"
+aws_account_number    = "022004543169"
+sddc_region           = "us-west-2"
+sddc_num_hosts        = 1
+sddc_name             = "saku-terraform-test"
+vpc_cidr              = "10.50.0.0/16"
+vxlan_subnet          = "172.10.0.0/24"
+public_ip_displayname = "vmc-test-public-ip"
