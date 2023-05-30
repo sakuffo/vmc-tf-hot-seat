@@ -1,3 +1,6 @@
 /.terraform-e2e-main
 /saku-vmc-e2e/.locals
-
+/terraform.auto.tfvars
+terraform.auto.tfvars
+/.terraform
+/*.tfstate*
